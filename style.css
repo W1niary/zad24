@@ -1,0 +1,43 @@
+body{
+    background-color: beige;
+    cursor: wait;
+}
+#header{
+    text-align: center;
+    cursor: cell;
+    background-color: aliceblue;
+}
+#jeden{
+    height: 25%;
+    width: 25%;
+    border: 1px solid blue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    margin-top: 10px;
+    cursor: help;
+}
+#dwa{
+    height: 25%;
+    width: 25%;
+    border: 1px solid blue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    margin-top: 10px;
+    font-size: smaller;
+    cursor: context-menu;
+}
+#trzy{
+    height: 25%;
+    width: 25%;
+    border: 1px solid blue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    margin-top: 10px;
+    cursor: all-scroll;
+}
